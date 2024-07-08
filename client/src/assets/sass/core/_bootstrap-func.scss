@@ -1,0 +1,41 @@
+// bootstrap main
+// Required
+
+@import "../../modules/bootstrap/scss/functions";
+@import "../../modules/bootstrap/scss/variables";
+@import "../../modules/bootstrap/scss/mixins";
+
+// Optional
+
+//@import "../../modules/bootstrap/scss/root";
+@import "../../modules/bootstrap/scss/reboot"; // grid functionality
+//@import "../../modules/bootstrap/scss/type"; 
+//@import "../../modules/bootstrap/scss/transitions"; // dropdown,acording etc functionality
+@import "../../modules/bootstrap/scss/grid"; //grid functionality
+//@import "../../modules/bootstrap/scss/images"; // responsivity of images
+@import "../../modules/bootstrap/scss/utilities"; // main bootstrap clases
+//@import "../../modules/bootstrap/scss/code";
+//@import "../../modules/bootstrap/scss/tables";
+//@import "../../modules/bootstrap/scss/forms";
+//@import "../../modules/bootstrap/scss/buttons";
+//@import "../../modules/bootstrap/scss/dropdown";
+//@import "../../modules/bootstrap/scss/button-group";
+//@import "../../modules/bootstrap/scss/input-group";
+//@import "../../modules/bootstrap/scss/custom-forms";
+//@import "../../modules/bootstrap/scss/nav";
+//@import "../../modules/bootstrap/scss/navbar";
+//@import "../../modules/bootstrap/scss/card";
+//@import "../../modules/bootstrap/scss/breadcrumb";
+//@import "../../modules/bootstrap/scss/pagination";
+//@import "../../modules/bootstrap/scss/badge";
+//@import "../../modules/bootstrap/scss/jumbotron";
+//@import "../../modules/bootstrap/scss/alert";
+//@import "../../modules/bootstrap/scss/progress";
+//@import "../../modules/bootstrap/scss/media";
+//@import "../../modules/bootstrap/scss/list-group";
+//@import "../../modules/bootstrap/scss/close";
+//@import "../../modules/bootstrap/scss/modal";
+//@import "../../modules/bootstrap/scss/tooltip";
+//@import "../../modules/bootstrap/scss/popover";
+//@import "../../modules/bootstrap/scss/carousel";
+//@import "../../modules/bootstrap/scss/print";

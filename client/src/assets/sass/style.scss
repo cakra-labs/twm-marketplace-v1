@@ -1,0 +1,44 @@
+// $grid-breakpoints: (
+//     xs: 390px,
+//     sm: 586px,
+//     md: 768px,
+//     lg: 992px,
+//     xl: 1200px,
+//     xxl: 1340px,
+// );
+
+$container-max-widths: (
+    sm: 570px,
+    md: 720px,
+    lg: 940px,
+    xl: 1150px,
+    xxl: 1310px,
+);
+
+@import "core/variables"; 
+@import "core/bootstrap-func"; 
+@import "core/pixelwork"; 
+
+@font-face { 
+    font-family: "Belmont";
+    src: url('../fonts/Belmont\ Regular.otf');
+}
+
+@font-face { 
+    font-family: "FrizQuadrataRegular";
+    src: url('../fonts/Friz\ Quadrata\ Regular.ttf');
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-display: swap;
+    background: #0c041a;
+    color: rgb(255, 255, 255);
+}
+
+
+@import "theme/mixins";
+@import "theme/main";
+//@import "theme/owl_critical_css";
+
+@import "enigma_labs/el";

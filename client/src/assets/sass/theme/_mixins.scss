@@ -1,0 +1,7 @@
+@mixin hover($brightness: 115%) {
+    transition: .2s ease-in-out;
+
+    &:hover {
+        filter: brightness($brightness);
+    }
+}

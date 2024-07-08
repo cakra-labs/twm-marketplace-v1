@@ -1,0 +1,42 @@
+.fly-element{
+    pointer-events: none;
+}
+html {
+    scroll-behavior: smooth;
+  }
+.anr_captcha_field{
+	display: none;
+}
+::-moz-selection { /* Code for Firefox */
+    color: #fff;
+    background: #000;
+ }
+  
+::selection {
+    color: #fff;
+    background: #000;
+}
+body{
+    span.wpcf7-list-item{
+        margin: 0;
+    }
+}
+a {
+    color: #fff;
+
+    &:hover {
+        text-decoration: none;
+        color: #fff;
+    }
+}
+::-webkit-scrollbar {
+    width: 7px;
+    background-color: #fff;
+
+}
+::-webkit-scrollbar-thumb {
+    background-color: #2a0b4c;
+    background-size: 100% 300%;
+    border-radius: 0px;
+    transition: .3s;
+}

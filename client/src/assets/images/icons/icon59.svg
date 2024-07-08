@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120.5 113.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bdc5d1;
+        opacity: 0.5;
+      }
+
+      .cls-2, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-6 {
+        stroke: #bdc5d1;
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-6 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #337afe;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #337afe;
+      }
+
+      .cls-5, .cls-7 {
+        stroke: #fff;
+      }
+
+      .cls-9 {
+        fill: #eee;
+      }
+
+      .cls-10 {
+        fill: #bbb;
+      }
+    </style>
+  </defs>
+  <g id="icon-59" transform="translate(0.7 -3.4)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M18.5,41.3H17.1a8.493,8.493,0,0,0-8.5,8.5V99.2a8.493,8.493,0,0,0,8.5,8.5h93.5a8.493,8.493,0,0,0,8.5-8.5V49.9a8.493,8.493,0,0,0-8.5-8.5h-6.2"/>
+    <path id="Path_2" data-name="Path 2" class="cls-2" d="M10.9,30.5H9.5A8.493,8.493,0,0,0,1,39V88.4a8.493,8.493,0,0,0,8.5,8.5H103a8.493,8.493,0,0,0,8.5-8.5V39a8.493,8.493,0,0,0-8.5-8.5H96.8"/>
+    <path id="Path_3" data-name="Path 3" class="cls-2" d="M12.6,38,9.8,15.5,90.3,4.9l1.9,14.5"/>
+    <path id="Path_4" data-name="Path 4" class="cls-3" d="M15.6,42.1V19.4H96.8V42.1"/>
+    <path id="Path_5" data-name="Path 5" class="cls-1" d="M93.6,40.8V29.9a5.618,5.618,0,0,1-5.5-5.8V24h-56v.1a5.683,5.683,0,0,1-5.5,5.8V40.8"/>
+    <path id="Path_6" data-name="Path 6" class="cls-4" d="M89.8,43.5V33a5.484,5.484,0,0,1-5.5-5.5v-.1h-56v.1A5.484,5.484,0,0,1,22.8,33V43.5"/>
+    <path id="Path_7" data-name="Path 7" class="cls-5" d="M67.4,43.5a11.793,11.793,0,0,0-22.4,0"/>
+    <line id="Line_1" data-name="Line 1" class="cls-6" x1="91.9" transform="translate(10.3 42.1)"/>
+    <path id="Path_8" data-name="Path 8" class="cls-2" d="M40.8,97V81.8L.8,66.9V88.5a8.386,8.386,0,0,0,8.4,8.4H40.8Z"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="26.3" cy="26.3" r="26.3" transform="translate(57.8 56.8)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-7" cx="26.3" cy="26.3" r="26.3" transform="translate(65.7 62.5)"/>
+    <g id="ethereum" transform="translate(80.133 70.073)">
+      <path id="Path_1-2" data-name="Path 1" class="cls-8" d="M125.426,0V-.2l-.26,26.727.26.26,11.9-7.035Z" transform="translate(-112.897)"/>
+      <path id="Path_2-2" data-name="Path 2" class="cls-8" d="M11.9,0,0,19.748l11.9,7.035V0Z"/>
+      <path id="Path_3-2" data-name="Path 3" class="cls-8" d="M126.532,243.619l-.146.179v9.134l.146.428,11.909-16.772Z" transform="translate(-114.004 -216.431)"/>
+      <path id="Path_4-2" data-name="Path 4" class="cls-8" d="M11.9,253.357v-9.74L0,236.585Z" transform="translate(0 -216.429)"/>
+      <path id="Path_5-2" data-name="Path 5" class="cls-9" d="M127.961,166.6l12.048-7.035-12.048-5.41Z" transform="translate(-115.579 -139.828)"/>
+      <path id="Path_6-2" data-name="Path 6" class="cls-10" d="M0,159.568,11.9,166.6V154.158Z" transform="translate(0 -139.827)"/>
+    </g>
+  </g>
+</svg>
